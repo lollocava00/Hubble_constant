@@ -7,7 +7,9 @@ Starting from the available data(70 SNe .dat files), only for supernovae having 
 • the apparent magnitude in b-band at the maximum,
 
 • the b-band magnitude 15 days after the maximum.
+
 From these data we then obtain:
+
 • the absolute magnitude in band B, correcting for extinction,
 
 • the module of distance μ,
