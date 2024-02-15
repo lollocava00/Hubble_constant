@@ -18,4 +18,4 @@ From these data we then obtain:
 
 Finally, use the distance-redshift relationship to estimate the constant of Hubble H0.
 
-The full description of the code and the numerical methods used is in italian in 'description(italian).pdf' file
+The full description of the code and the numerical methods used is in italian in 'description.pdf' file
