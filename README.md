@@ -17,3 +17,5 @@ From these data we then obtain:
 • the distance (brightness) of the object.
 
 Finally, use the distance-redshift relationship to estimate the constant of Hubble H0.
+
+The full description of the code and the numerical medhots used is in italian in 'description(italian).pdf' file
