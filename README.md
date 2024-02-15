@@ -18,4 +18,18 @@ From these data we then obtain:
 
 Finally, use the distance-redshift relationship to estimate the constant of Hubble H0.
 
-The full description of the code and the numerical methods used is in italian in 'description.pdf' file
+The full description of the code and the numerical methods used is in italian in 'description.pdf' file.
+
+Some examples of Sne light curves:
+
+![Alt text](Results/grafico1.png?raw=true)
+
+![Alt text](Results/grafico5.png?raw=true)
+
+Example of Montecarlo Technique on 3 Sne light curves:
+
+![Alt text](Results/grafico3.png?raw=true)
+
+The distance modulus-redshift relation:
+
+![Alt text](Results/grafico2.png?raw=true)
